@@ -5,10 +5,10 @@ Given the rise of mass shooting in the US, I was curious to explore a data set t
 ## Data Set Attributes:
 
 ---  ------          --------------  -----  
-* 0   Incident ID     2000 non-null   int64  
-* 1   Incident Date   2000 non-null   object 
-* 2   State           2000 non-null   object 
-* 3   City Or County  2000 non-null   object 
-* 4   Address         1997 non-null   object 
-* 5   # Killed        2000 non-null   int64  
-* 6   # Injured       2000 non-null   int64  
+* 0   Incident ID     -2000 non-null   int64  
+* 1   Incident Date   -2000 non-null   object 
+* 2   State           -2000 non-null   object 
+* 3   City Or County  -2000 non-null   object 
+* 4   Address         -1997 non-null   object 
+* 5   # Killed        -2000 non-null   int64  
+* 6   # Injured       -2000 non-null   int64  
