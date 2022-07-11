@@ -1,6 +1,6 @@
 # Mass Shooting EDA (2016-2021)
 
-Given the rise of mass shooting in the US, I was curious to explore a data set that can lend insights into the frequency and location of these incidents. This data set was downloaded from kaggle and was used to investigate whether is a correlation between the number of incidents and time of the year, location of these shootings, and if there is a correlation among the arributes of the data set.
+Given the rise of mass shootings in the US, I was curious to explore a data set that can lend insights into the frequency and location of these incidents. This data set was downloaded from Kaggle and I explored it to investigate whether there is a correlation between the number of incidents and time of the year, create a location plot of these incidents, and if there is a correlation among the attributes of the data set.
 
 ## Data Set Attributes:
 
